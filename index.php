@@ -1,3 +1,6 @@
 <?php
-	echo 'hello IS218';
+	
+	$var = " Hello im a variable";
+	echo $var;
+
 ?>
